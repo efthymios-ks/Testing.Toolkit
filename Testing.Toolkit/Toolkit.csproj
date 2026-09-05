@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<RootNamespace>Testing.Toolkit</RootNamespace>
+		<AssemblyName>Testing.Toolkit</AssemblyName>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="Testing.Toolkit.Tests" />
+	</ItemGroup>
+</Project>
